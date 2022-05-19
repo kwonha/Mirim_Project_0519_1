@@ -1,4 +1,4 @@
-fpackage kr.hs.emirim.s2118.mirim_project_0519_1;
+package kr.hs.emirim.s2118.mirim_project_0519_1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
